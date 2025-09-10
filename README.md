@@ -23,3 +23,10 @@ The system ensures a **clean, intuitive, and responsive UI/UX**.
 ### 📈 Weekly Health Score  
 - Visual breakdown of daily health scores.  
 - Average health score displayed for the week.  
+
+📂 File
+
+[Health Tracker(PDF)](./Hea;th%20Tracker.pdf)
+
+# Web Preview
+![Health Tracker Preview](./ht.png)
